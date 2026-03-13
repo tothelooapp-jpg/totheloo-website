@@ -21,6 +21,9 @@ background:white;
 .logo{
 font-size:24px;
 font-weight:bold;
+.logo img{
+height:36px;
+}
 }
 
 .nav-links a{
